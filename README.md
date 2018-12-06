@@ -1,2 +1,2 @@
-# Pattern-file-2-Legacy-VTK-file
+# Pattern_2_Legacy_VTK_Python
 From .pat to .vtk
